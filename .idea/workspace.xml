@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e21fc876-afb8-4e7a-94d7-2c629f9955fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/env/chess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/env/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/evaluate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/dual_res/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/dual_res/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/utils/model_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiangqi_zero/self_play.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1345828131">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="197" />
+          <entry key="dummy" value="60" />
+          <entry key="py" value="4637" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="Python" value="4834" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/board.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/chess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1577354649866" expanded="true" signature="863:864" ph="..." />
+                <marker date="1577354649866" expanded="true" signature="863:869" ph="..." />
+                <marker date="1577354649866" expanded="true" signature="1122:1131" ph="..." />
+                <marker date="1577354649866" expanded="true" signature="1211:1220" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="81" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xiangqi_zero/agent/__init__.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/agent/model.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/learn.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/evaluate.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/__init__.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/policy_model.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/config.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/dual_res.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/utils/config.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/dual_res/config.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/dual_res/__init__.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/__init__.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/self_play.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/env/env.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/env/board.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/env/environment.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/env/common.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/env/chess.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-214" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangqi_zero" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangqi_zero" type="462c0819:PsiDirectoryNode" />
+              <item name="env" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangqi_zero" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangqi_zero" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="dual_res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xiangqi_zero/model/dual_res" />
+      <recent name="$PROJECT_DIR$/xiangqi_zero/model" />
+      <recent name="$PROJECT_DIR$/xiangqi_zero" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="board" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xiangqi_zero/env" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xiangqi_zero/env/board.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.board" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e21fc876-afb8-4e7a-94d7-2c629f9955fd" name="Default Changelist" comment="" />
+      <created>1577170833053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577170833053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-214" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14112692" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" visible="true" weight="0.43465346" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32970297" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/agent/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/agent/model.py" />
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/policy_model.py" />
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/config.py" />
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/learn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Codes/venv/kaggle/lib/python3.7/site-packages/torch/nn/modules/batchnorm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321">
+          <caret line="174" column="6" selection-start-line="174" selection-start-column="6" selection-end-line="174" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Codes/venv/kaggle/lib/python3.7/site-packages/torch/nn/modules/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5088">
+          <caret line="320" column="8" selection-start-line="320" selection-start-column="8" selection-end-line="320" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/dual_res/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/dual_res/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/utils/model_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="951">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/env.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/self_play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" lean-forward="true" selection-start-column="65" selection-end-column="65" />
+          <folding>
+            <marker date="1577347077219" expanded="true" signature="82:83" ph="..." />
+            <marker date="1577347077219" expanded="true" signature="82:88" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1577348580946" expanded="true" signature="715:1734" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/board.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="81" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/chess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1577354649866" expanded="true" signature="863:864" ph="..." />
+            <marker date="1577354649866" expanded="true" signature="863:869" ph="..." />
+            <marker date="1577354649866" expanded="true" signature="1122:1131" ph="..." />
+            <marker date="1577354649866" expanded="true" signature="1211:1220" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
