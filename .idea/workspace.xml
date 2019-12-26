@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e21fc876-afb8-4e7a-94d7-2c629f9955fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/env/chess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/env/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/evaluate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/learn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/dual_res/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/dual_res/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/model/utils/model_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiangqi_zero/self_play.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiangqi_zero/env/chess.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiangqi_zero/env/chess.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,15 +32,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="197" />
+          <entry key="Python Console" value="208" />
           <entry key="dummy" value="60" />
-          <entry key="py" value="4637" />
+          <entry key="py" value="4816" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="60" />
-          <entry key="Python" value="4834" />
+          <entry key="Python" value="5024" />
         </counts>
       </usages-collector>
     </session>
@@ -66,14 +55,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/chess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+            <state relative-caret-position="337">
+              <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <marker date="1577354649866" expanded="true" signature="863:864" ph="..." />
-                <marker date="1577354649866" expanded="true" signature="863:869" ph="..." />
-                <marker date="1577354649866" expanded="true" signature="1122:1131" ph="..." />
-                <marker date="1577354649866" expanded="true" signature="1211:1220" ph="..." />
+                <marker date="1577356654190" expanded="true" signature="878:879" ph="..." />
+                <marker date="1577356654190" expanded="true" signature="878:884" ph="..." />
+                <marker date="1577356654190" expanded="true" signature="1137:1146" ph="..." />
+                <marker date="1577356654190" expanded="true" signature="1226:1235" ph="..." />
+                <marker date="1577356654190" expanded="true" signature="2052:2061" ph="..." />
               </folding>
             </state>
           </provider>
@@ -248,11 +238,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14112692" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14112692" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="2" visible="true" weight="0.43465346" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="2" visible="true" weight="0.43465346" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
@@ -361,14 +351,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/chess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        <state relative-caret-position="337">
+          <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1577354649866" expanded="true" signature="863:864" ph="..." />
-            <marker date="1577354649866" expanded="true" signature="863:869" ph="..." />
-            <marker date="1577354649866" expanded="true" signature="1122:1131" ph="..." />
-            <marker date="1577354649866" expanded="true" signature="1211:1220" ph="..." />
+            <marker date="1577356654190" expanded="true" signature="878:879" ph="..." />
+            <marker date="1577356654190" expanded="true" signature="878:884" ph="..." />
+            <marker date="1577356654190" expanded="true" signature="1137:1146" ph="..." />
+            <marker date="1577356654190" expanded="true" signature="1226:1235" ph="..." />
+            <marker date="1577356654190" expanded="true" signature="2052:2061" ph="..." />
           </folding>
         </state>
       </provider>

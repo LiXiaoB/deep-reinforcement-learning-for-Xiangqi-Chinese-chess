@@ -15,7 +15,9 @@ id2piece = {
     -10: 'E2',              -2: 'S4', 2: 's4',                 10: 'e2',
     -9:  'H2',  -6: 'C2',                           6: 'c2',   9:  'h2',
     -8:  'R2',              -1: 'S5', 1: 's5',                 8:  'r2',
+    0:   '.'
 }
+
 
 class ChineseChessEnv(gym.Env):
 
@@ -30,7 +32,16 @@ class ChineseChessEnv(gym.Env):
 
     def reset(self):
         # Reset the state of the environment to an initial state
-
+        board = list()
+        board.append(['R1', '.', '.', 'S1', '.', '.', 's1', '.', '.', 'r1'])
+        board.append(['H1', '.', 'C1', '.', '.', '.', '.', 'c1', '.', 'h1'])
+        board.append(['E1', '.', '.', 'S2', '.', '.', 's2', '.', '.', 'e1'])
+        board.append(['A1', '.', '.', '.', '.', '.', '.', '.', '.', 'a1'])
+        board.append(['G',  '.', '.', 'S3', '.', '.', 's3', '.', '.', 'g'])
+        board.append(['A2', '.', '.', '.', '.', '.', '.', '.', '.', 'a2'])
+        board.append(['E2', '.', '.', 'S4', '.', '.', 's4', '.', '.', 'e2'])
+        board.append(['H2', '.', 'C2', '.', '.', '.', '.', 'c2', '.', 'h2'])
+        board.append(['R2', '.', '.', 'S5', '.', '.', 's5', '.', '.', 'r2'])
 
     def render(self, mode='human', close=False):
         # Render the environment to the screen
