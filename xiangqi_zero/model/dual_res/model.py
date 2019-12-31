@@ -7,7 +7,7 @@ from xiangqi_zero.env.common import *
 
 
 class DualResidualNetwork(nn.Module):
-    """Implementation of the policy network from paper
+    """Implementation of the dual network from paper
     'Mastering the Game of Go without Human Knowledge' """
 
     def __init__(self, config):
@@ -57,7 +57,7 @@ class BaseInputModel(nn.Module):
 
     def __init__(self, config: ModelConfigDualRes):
         super(BaseInputModel, self).__init__()
-        self.conv = nn.Conv2d(in_channels=TYPE_OF_PIECES*2, out_channels=256, kernel_size=3, stride=1)
+        self.conv = nn.Conv2d(in_channels=NUM_MODEL_INPUT, out_channels=256, kernel_size=3, stride=1)
         self.batch_norm = nn.BatchNorm2d(num_features=256)
         self.relu = nn.ReLU()
         self.res_blocks = nn.ModuleList([ResidualBlock() for _ in range(config.num_res_blocks)])
@@ -78,7 +78,7 @@ class PolicyOutputLayer(nn.Module):
         self.conv = nn.Conv2d(in_channels=256, out_channels=2, kernel_size=1, stride=1)
         self.batch_norm = nn.BatchNorm2d(num_features=2)
         self.relu = nn.ReLU()
-        self.fc = nn.Linear(in_features=72, out_features=ACTION_SPACE)  # TODO in / out size 8 * 9 = 72 * 256?
+        self.fc = nn.Linear(in_features=72, out_features=ACTION_SPACE)  # TODO
 
     def forward(self, x):
         x = self.conv(x)

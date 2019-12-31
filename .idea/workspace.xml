@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e21fc876-afb8-4e7a-94d7-2c629f9955fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xiangqi_zero/env/chess.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiangqi_zero/env/chess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiangqi_zero/env/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiangqi_zero/env/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,25 +25,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="38" />
+          <entry key="py" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="38" />
+          <entry key="Python" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="208" />
+          <entry key="Python Console" value="276" />
           <entry key="dummy" value="60" />
-          <entry key="py" value="4816" />
+          <entry key="py" value="10698" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="60" />
-          <entry key="Python" value="5024" />
+          <entry key="Python" value="10974" />
         </counts>
       </usages-collector>
     </session>
@@ -55,15 +58,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/chess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+            <state relative-caret-position="-2123">
+              <caret line="85" column="32" lean-forward="true" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1577356654190" expanded="true" signature="878:879" ph="..." />
-                <marker date="1577356654190" expanded="true" signature="878:884" ph="..." />
-                <marker date="1577356654190" expanded="true" signature="1137:1146" ph="..." />
-                <marker date="1577356654190" expanded="true" signature="1226:1235" ph="..." />
-                <marker date="1577356654190" expanded="true" signature="2052:2061" ph="..." />
+                <element signature="e#0#36#0" expanded="true" />
+                <marker date="1577775855120" expanded="true" signature="1218:1219" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="1232:1320" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="1351:1352" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="1351:1357" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="1774:1783" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="2137:2352" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="2529:2671" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="2733:7622" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="7676:9215" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="9231:9240" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="10229:10238" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="10411:10429" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="10556:10565" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="10556:10723" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="10758:10771" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="10771:10776" ph="..." />
+                <marker date="1577775855120" expanded="true" signature="10814:10832" ph="..." />
               </folding>
             </state>
           </provider>
@@ -72,8 +87,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/common.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="81" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="81" />
+            <state relative-caret-position="221">
+              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="82" column="25" lean-forward="true" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <marker date="1577769013427" expanded="true" signature="713:1732" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,18 +138,19 @@
         <option value="$PROJECT_DIR$/xiangqi_zero/self_play.py" />
         <option value="$PROJECT_DIR$/xiangqi_zero/env/env.py" />
         <option value="$PROJECT_DIR$/xiangqi_zero/env/board.py" />
-        <option value="$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py" />
         <option value="$PROJECT_DIR$/xiangqi_zero/env/environment.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/env/action.py" />
         <option value="$PROJECT_DIR$/xiangqi_zero/env/common.py" />
+        <option value="$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py" />
         <option value="$PROJECT_DIR$/xiangqi_zero/env/chess.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-214" />
-    <option name="y" value="-1057" />
+    <option name="y" value="-1080" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -156,13 +185,6 @@
               <item name="xiangqi_zero" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" type="462c0819:PsiDirectoryNode" />
-              <item name="xiangqi_zero" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="dual_res" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -192,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.chess">
     <configuration name="board" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,8 +236,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="chess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep-reinforcement-learning-for-Xiangqi-Chinese-chess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xiangqi_zero/env" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xiangqi_zero/env/chess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.board" />
+      <item itemvalue="Python.chess" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chess" />
         <item itemvalue="Python.board" />
       </list>
     </recent_temporary>
@@ -233,6 +281,15 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-214" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
@@ -240,17 +297,17 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14112692" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="2" visible="true" weight="0.43465346" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.2019802" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32970297" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -304,13 +361,6 @@
     <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/dual_res/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/utils/model_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="951">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/env.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -328,38 +378,60 @@
     <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py">
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/utils/model_config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-            <marker date="1577348580946" expanded="true" signature="715:1734" ph="..." />
-          </folding>
+        <state relative-caret-position="1169">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/action.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/board.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqi_zero/model/dual_res/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="82" column="25" lean-forward="true" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1577769013427" expanded="true" signature="713:1732" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/common.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="81" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="81" />
+        <state relative-caret-position="221">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiangqi_zero/env/chess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+        <state relative-caret-position="-2123">
+          <caret line="85" column="32" lean-forward="true" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1577356654190" expanded="true" signature="878:879" ph="..." />
-            <marker date="1577356654190" expanded="true" signature="878:884" ph="..." />
-            <marker date="1577356654190" expanded="true" signature="1137:1146" ph="..." />
-            <marker date="1577356654190" expanded="true" signature="1226:1235" ph="..." />
-            <marker date="1577356654190" expanded="true" signature="2052:2061" ph="..." />
+            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1577775855120" expanded="true" signature="1218:1219" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="1232:1320" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="1351:1352" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="1351:1357" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="1774:1783" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="2137:2352" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="2529:2671" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="2733:7622" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="7676:9215" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="9231:9240" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="10229:10238" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="10411:10429" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="10556:10565" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="10556:10723" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="10758:10771" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="10771:10776" ph="..." />
+            <marker date="1577775855120" expanded="true" signature="10814:10832" ph="..." />
           </folding>
         </state>
       </provider>
